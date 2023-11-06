@@ -18,6 +18,7 @@ I'm a passionate developer with a love for coding and a keen interest in technol
 - JavaScript
 - MongoDb
 - MySql
+- C++
 
 
 
